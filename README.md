@@ -5,8 +5,8 @@ I'm a student at Novosibirsk State University and here is some information about
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sklochikhina&theme=solarized_dark)
 
 # Languages
-![Logo](https://skillicons.dev/icons?i=c,cpp,java,python,js)
+![Logo](https://skillicons.dev/icons?i=c,cpp,kotlin,java,go,php,python,js)
 # Tools
-![Logo](https://skillicons.dev/icons?i=clion,idea,pycharm,webstorm,linux,maven,git,github,gitlab)
+![Logo](https://skillicons.dev/icons?i=clion,idea,phpstorm,pycharm,webstorm,linux,maven,git,github,gitlab)
 # Contacts
 klochikhina.sofya@mail.ru
